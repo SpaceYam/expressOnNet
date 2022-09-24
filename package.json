@@ -4,7 +4,7 @@
   "description": "",
   "main": "localserver.js",
   "scripts": {
-    "build": "netlify-lambda build express",
+    "build": "netlify-lambda build servers",
     "test": "node servers/server.js",
     "start": "node localserver.js"
   },

@@ -5,8 +5,8 @@
   "main": "localserver.js",
   "scripts": {
     "build": "netlify-lambda build express",
-    "test": "node localserver.js",
-    "start": "node servers/server.js"
+    "test": "node servers/server.js",
+    "start": "node localserver.js"
   },
   "keywords": [],
   "author": "",

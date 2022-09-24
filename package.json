@@ -1,0 +1,19 @@
+{
+  "name": "expressonnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "localserver.js",
+  "scripts": {
+    "build": "netlify-lambda build express",
+    "test": "node localserver.js",
+    "start": "node servers/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "serverless-http": "^3.0.2"
+  }
+}

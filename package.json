@@ -2,7 +2,7 @@
   "name": "expressonnet",
   "version": "1.0.0",
   "description": "",
-  "main": "localserver.js",
+  "main": "functions/server.js",
   "scripts": {
     "build": "netlify-lambda build servers",
     "test": "node servers/server.js",

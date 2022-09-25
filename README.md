@@ -1,5 +1,5 @@
 <h1 align="center">
-  express boilerplate for distributing on netlify 
+  express.js boilerplate for distributing on netlify 
   <img src="" alt=""> 
 </h1>
 
